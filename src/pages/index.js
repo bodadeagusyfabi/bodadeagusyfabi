@@ -13,6 +13,7 @@ const HeaderImg = styled.div`
 
 const IframeStyled = styled.iframe`
   background-color: #f2ecec;
+  border: 0;
 `
 
 function IndexPage() {
