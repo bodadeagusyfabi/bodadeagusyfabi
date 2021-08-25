@@ -1,0 +1,71 @@
+{
+  "name": "bodadeagusyfabi",
+  "private": true,
+  "description": "Static website of bodadeagusyfabi.github.io",
+  "version": "0.1.0",
+  "author": "Eduardo Robles <edulix@gmail.com>",
+  "dependencies": {
+    "@babel/helper-compilation-targets": "^7.10.0",
+    "babel-plugin-styled-components": "^1.10.7",
+    "gatsby": "^2.22.11",
+    "gatsby-cli": "^2.12.65",
+    "gatsby-image": "^2.0.41",
+    "gatsby-plugin-feed": "^2.3.4",
+    "gatsby-plugin-google-analytics": "^2.1.4",
+    "gatsby-plugin-google-tagmanager": "^2.1.1",
+    "gatsby-plugin-less": "^2.0.13",
+    "gatsby-plugin-manifest": "^2.4.9",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-remove-serviceworker": "^1.0.0",
+    "gatsby-plugin-robots-txt": "^1.5.0",
+    "gatsby-plugin-sharp": "^2.0.37",
+    "gatsby-plugin-sitemap": "^2.2.3",
+    "gatsby-plugin-styled-components": "^3.3.2",
+    "gatsby-remark-copy-linked-files": "^2.1.2",
+    "gatsby-remark-figure-caption": "^2.0.0",
+    "gatsby-remark-images": "^3.1.5",
+    "gatsby-remark-prismjs": "^3.3.3",
+    "gatsby-remark-responsive-iframe": "^2.2.3",
+    "gatsby-remark-smartypants": "^2.1.2",
+    "gatsby-source-filesystem": "^2.3.8",
+    "gatsby-transformer-remark": "^2.6.4",
+    "gatsby-transformer-sharp": "^2.1.19",
+    "less": "^3.9.0",
+    "node-fetch": "^2.6.0",
+    "prismjs": "^1.16.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-intl": "^5.4.0",
+    "rss": "^1.2.2",
+    "semantic-ui-less": "^2.4.1",
+    "semantic-ui-react": "^0.87.1",
+    "styled-components": "^5.1.1",
+    "universal-cookie": "^4.0.3",
+    "wpxml2md": "^2.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.1"
+  },
+  "keywords": [
+    "boda",
+    "agus",
+    "fabi"
+  ],
+  "license": "Commercial",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bodadeagusyfabi/bodadeagusyfabi/"
+  },
+  "bugs": {
+    "url": "https://github.com/bodadeagusyfabi/bodadeagusyfabi/issues"
+  }
+}

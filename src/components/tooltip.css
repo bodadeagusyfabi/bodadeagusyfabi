@@ -1,0 +1,22 @@
+.popup-container {
+  margin: 2px;
+}
+
+.popup-container .popup:after {
+  width: 120px;
+  white-space: normal;
+}
+
+.sample-container {
+  margin: 20px;
+}
+
+.sample-container .ui.icon.button {
+  margin-left: 4px;
+}
+
+.sample-container .ui.icon.button:after {
+  width: 400px;
+  white-space: normal;
+  padding-left: 4px;
+}
