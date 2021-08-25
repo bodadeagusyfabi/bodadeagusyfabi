@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{EDuE:function(e,t,o){},RXBc:function(e,t,o){"use strict";o.r(t);var r=o("q1tI"),n=o.n(r);o("EDuE");t.default=function(){return n.a.createElement("iframe",{src:"https://docs.google.com/forms/d/e/1FAIpQLSc_dKRIpJxkBNPF4sdvtk1lodD2lpGG7choSD0fBfRDJRhBJQ/viewform?embedded=true",width:"100%",height:"2200",frameborder:"0",marginheight:"0",marginwidth:"0"},"Cargando…")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-a6a086bf6db7071128f0.js.map
